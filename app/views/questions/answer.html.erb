@@ -1,4 +1,9 @@
-<h1 class= purple>Beware, this is your answer! Read it and weep.</h1>
-<%= @question %>
-<%= @answer %>
-<%= link_to "Ask again", ask_path %>
+<div class="card">
+  <h1>STUPID COACHING GAME</h1>
+  <img src="images/Coach3.jpeg" class="card-img-top" alt="...">
+  <div>
+    <h2 id="coach"><%= @answer %></h2>
+    <br>
+    <%= link_to "Ask again", root_path, class: "link" %>
+  </div>
+</div>

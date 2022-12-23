@@ -2,8 +2,17 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
 
+.card {
+  border: 2px solid;
+  text-align: center;
+  width: 50%;
+  border-radius: 3px;
+  margin-top: 40px;
+  margin-left: 250px;
+  padding-bottom: 30px;
+}
+
 .btn-green {
-  background-color: green;
   color: red;
 }
 .purple {
@@ -12,4 +21,25 @@
 
 .orange {
   background-color: orange;
+}
+
+h1 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: orange;
+  margin-top: 0px;
+}
+
+#coach {
+  color: red;
+}
+
+.link {
+  text-decoration: none;
+  color: black;
+  background-color: green;
+  padding: 8px 24px;
+  border-radius: 4px;
+  font-weight: bold;
 }
