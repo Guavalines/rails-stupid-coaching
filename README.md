@@ -1,9 +1,7 @@
-## This is a short execution flow app
-
-
-This app explores the following:
+## This small app explores the following:
 - conditional and looping structures
 - execution flow and control structures that modify the program flow (ie if/unless...else...end, while/until...end).
+
 
 When you enter a message and click the "talk" button, Coach Hell responds with a message of his own.
 
