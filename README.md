@@ -1,3 +1,6 @@
+## This is a short execution flow app
+
+
 This app explores the following:
 - conditional and looping structures
 - execution flow and control structures that modify the program flow (ie if/unless...else...end, while/until...end).
@@ -38,5 +41,6 @@ class CommunicationsController < ApplicationController
 end
 ```
 
+## Here are some things you may want to initialize before starting the app:
 
 
