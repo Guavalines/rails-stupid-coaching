@@ -19,5 +19,24 @@ However, when you enter the sentence "I'm going to work", Coach Hell responds...
 ![Great](https://user-images.githubusercontent.com/100665876/209419993-a5e51eea-ccc8-4abe-9623-e523aee4f876.jpeg)
 
 
+Here is the code for the controller, which shows the if/else statements that modify the program flow:
+
+```
+class CommunicationsController < ApplicationController
+  def ask; end
+
+  def answer
+    @talk = params[:talk]
+    if @talk == "I'm going to work"
+      @answer = 'Great!'
+    elsif @talk.end_with?('?')
+      @answer = 'SILLY QUESTION! GET DRESSED AND GO TO WORK!'
+    else
+      @answer = "I DON'T CARE, GET DRESSED AND GO TO WORK!"
+    end
+  end
+end
+```
+
 
 
