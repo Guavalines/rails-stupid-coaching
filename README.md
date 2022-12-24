@@ -5,7 +5,7 @@
 
 The idea is that when you enter a message and click the "talk" button, Coach Hell responds with a message of his own, based on your message.
 
-![StupidCoaching](https://user-images.githubusercontent.com/100665876/209420643-32eec736-6f26-4efc-8f74-7767c69f1433.jpeg)
+![Question](https://user-images.githubusercontent.com/100665876/209419539-b2dd9610-ecfe-46d9-a985-26cb52874c18.jpeg)
 
 When you enter a question such as "Do I have to work?", Coach Hell responds...
 
