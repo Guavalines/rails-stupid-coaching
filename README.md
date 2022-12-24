@@ -1,4 +1,4 @@
-## This small app explores the following:
+## Stupid Coaching App explores the following:
 - conditional and looping structures
 - execution flow and control structures that modify the program flow (ie if/unless...else...end, while/until...end).
 
