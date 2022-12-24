@@ -31,7 +31,12 @@ h1 {
   margin-top: 0px;
 }
 
-#coach {
+#coachtwo {
+  color: red;
+  width: 250px;
+  padding-left: 170px;
+}
+#coachone {
   color: red;
 }
 
@@ -42,4 +47,8 @@ h1 {
   padding: 8px 24px;
   border-radius: 4px;
   font-weight: bold;
+}
+.card-img-top {
+  height: 200;
+  width:100;
 }
