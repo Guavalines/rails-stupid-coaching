@@ -1,8 +1,14 @@
-# STUPID COACHING 
-### This app explores the following:
+# STUPID COACHING
+
+## Description
+This project is an app that uses conditional and looping structures to modify program flow and responds to user input based on the entered message. The app has a controller that includes if/else statements to modify the program flow and provide appropriate responses to user messages. The app is designed to respond differently based on the type of message entered, such as a statement or a question, and provides specific responses based on the input.
+
+
+## Features
 - conditional and looping structures
 - execution flow and control structures that modify the program flow (ie if/unless...else...end, while/until...end).
 
+## Views
 
 The idea is that when you enter a message and click the "talk" button, Coach Hell responds with a message of his own, based on your message.
 
