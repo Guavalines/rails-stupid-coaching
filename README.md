@@ -1,4 +1,4 @@
-# STUPID COACHING
+# 🏀 STUPID COACHING
 
 ## Description
 This project is an app that uses conditional and looping structures to modify program flow and responds to user input based on the entered message. The app has a controller that includes if/else statements to modify the program flow and provide appropriate responses to user messages. The app is designed to respond differently based on the type of message entered, such as a statement or a question, and provides specific responses based on the input.
